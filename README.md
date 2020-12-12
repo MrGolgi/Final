@@ -16,3 +16,4 @@ Starting game difficulty is 300 + 10 per enemy killed.
 
 Final Project- Requirement 9: apply one Python concept we did not learn in Class:
 sprites! This is quite a major concept, as it is used to group sprites into list, run through each sprite to test for collison, and .kill() those sprites if collisions occur. 
+Final Status Report shows location of sprite Classes and group list creation.  
